@@ -28,7 +28,7 @@
 	$active = 1;
 	$header = "TOP 20 najlepszych filmów";
 	$headerDesc = "Oto 20 najlepszych filmów wszechczasów!
-					Jeśli nie zgadzasz się z tą lista napisz do mnie na FaceBook'u ;)";
+					Jeśli nie zgadzasz się z tą lista napisz do mnie na FaceBook'u.";
 
 	include  'templates/_head.php';
 ?>
