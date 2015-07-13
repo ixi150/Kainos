@@ -20,7 +20,7 @@
 
 	if (!$query) {
 	  echo '<div class="alert alert-danger" role="alert">Error with database!</div>';
-	  exit;
+	  //exit;
 	}
 
 //Build Webpage
