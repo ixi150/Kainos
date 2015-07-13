@@ -22,7 +22,7 @@
 		if (!$query) 
 		{
 		  echo '<div class="alert alert-danger" role="alert">Error with database!</div>';
-		  exit;
+		  //exit;
 		}
 		
 		$row				= pg_fetch_row($query);
@@ -49,7 +49,7 @@
 		if (!$query) 
 		{
 		  echo '<div class="alert alert-danger" role="alert">Error with database!</div>';
-		  exit;
+		  //exit;
 		}
 		
 		$size = 0;
